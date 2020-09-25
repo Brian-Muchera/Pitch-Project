@@ -97,13 +97,15 @@ body{
     }
     
     .bgimage{
-    background-image:url("../assets/boxed-water-is-better-GoYNk3CrgxQ-unsplash.jpg");
+    /*background-image:url("../assets/boxed-water-is-better-GoYNk3CrgxQ-unsplash.jpg");*/
     background-size:cover;
     background-position:center;
     background-repeat:no-repeat;
     z-index:1;
     padding-top:70px;
     padding-bottom:130px;
+    background-image: url("../assets/tumblr_mnh1uhYnog1st5lhmo1_1280.jpg");
+    background-attachment: fixed;
     }
     
     #buttons{
@@ -114,11 +116,12 @@ body{
     }
 
     .card{
-      background-image: url("../assets/photo-.jpeg");
+      /*background-image: url("../assets/photo-.jpeg");*/
+      background-image: url("../assets/tumblr_mnh1uhYnog1st5lhmo1_1280.jpg");
       background-position: center;
       background-repeat: no-repeat;
       background-size: cover;
-      width: 100%;
+      color: #ed5107;
     }
     
     
