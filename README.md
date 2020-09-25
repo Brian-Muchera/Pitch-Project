@@ -28,6 +28,7 @@ An application that list pitches and can be liked and commented!!
 * js
 
 #### Clone the Repo and checkout into the project folder.
+ 'https://github.com/Brian-Muchera/Pitch-Project'
 
 #### Setting up environment variables
 Create a file to start the application. `touch start.sh`
