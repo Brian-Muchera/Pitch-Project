@@ -1,8 +1,8 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: #147be9;
-    /*background-image: url("https://mdbootstrap.com/img/Photos/Horizontal/Nature/full%20page/img(20).jpg");*/
+    /*background-color: #147be9;*/
+    background-image: url("../assets/boxed-water-is-better-GoYNk3CrgxQ-unsplash.jpg");
 }
 
 #particles-js {
