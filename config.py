@@ -1,12 +1,12 @@
 import os
 
-from dotenv import load_dotenv as ld
+#from dotenv import load_dotenv as ld
 
-ld()
+#ld()
 
 
 class Config:
-    debug = True
+    #debug = True
     SECRET_KEY = '0443'
     SQLALCHEMY_DATABASE_URI = 'postgresql+psycopg2://muchera-brian:brian@localhost/pitch'
     SQLALCHEMY_TRACK_MODIFICATIONS = True
